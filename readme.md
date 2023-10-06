@@ -1,4 +1,4 @@
-# Hướng dẫn config mạng bằng cho bbb
+# Hướng dẫn config mạng cho bbb
 # Issue
 
 Ban đầu khi gõ ifconfig nó sẽ hiện như sau , kiểm tra không có /dev/usb0 và /dev/usb1
