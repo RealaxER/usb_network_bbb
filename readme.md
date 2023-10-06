@@ -39,7 +39,6 @@ Link : https://github.com/rcn-ee/repos/tree/master/bb-usb-gadgets/suite/bullseye
 Kích hoạt usb khởi động cùng systemd 
 ```
 sudo systemctl enable --now bb-usb-gadgets.service
-
 ```
 
 Kiểm tra thử status của nó
